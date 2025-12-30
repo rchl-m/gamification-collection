@@ -1,0 +1,67 @@
+{
+  "version": "3.62.27443.0",
+  "course_id": "6Sr6YCBlFCg_course_id",
+  "title": "REVERSE MYTHBUSTER",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Reverse Mythbuster"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6U0Z2qfxxkJ",
+      "title": "Reverse Mythbuster",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6QUGk9KtNAh",
+      "title": "Myth 1",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "61OUXOpo6eW",
+      "title": "Myth 2",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "6RfC6fMkji3",
+      "title": "Myth 3",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "5YS1rPOYEPg",
+      "title": "Myth 4",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "64gt8z1QVp8",
+      "title": "Myth 5",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "6DDsZ65Deaf",
+      "title": "Myth 6",
+      "scene_index": "1.7"
+    },
+    {
+      "id": "5iaHlXwiYzD",
+      "title": "Myth 7",
+      "scene_index": "1.8"
+    },
+    {
+      "id": "6VWySiOIlx7",
+      "title": "End Slide",
+      "scene_index": "1.9"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1300,
+    "height": 791
+  },
+  "stage": {
+    "width": 1280,
+    "height": 720
+  }
+}
